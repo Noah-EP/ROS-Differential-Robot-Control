@@ -1,0 +1,3 @@
+<launch>
+	<node pkg = "pub_sub" type = "rosPub.py" name = "ben" output="screen"/>
+</launch>
